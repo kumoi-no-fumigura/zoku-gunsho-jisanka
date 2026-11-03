@@ -2909,6 +2909,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 10,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-jisanka",
   "work": "自讃歌",
@@ -2921,7 +2925,7 @@
   "blocks": 10,
   "chars": 4506,
   "poems": 170,
-  "yaku": 0,
+  "yaku": 10,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T08:56:00+09:00"
